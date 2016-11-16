@@ -117,10 +117,11 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  GitHub: 'https://github.com/suifengqjn'
-  Weibo:  'http://weibo.com/dearqjn?source=blog&is_all=1'
-
+social:
+  GitHub: https://github.com/suifengqjn
+  Weibo:  http://weibo.com/dearqjn?source=blog&is_all=1
+  简书: http://www.jianshu.com/users/527ecf8c8753/latest_articles
+  instagram: https://www.instagram.com/yeqianxun/
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -133,8 +134,8 @@ social_icons:
   GitHub: github
   # Twitter: twitter
   Weibo: weibo
-
-
+  简单: jianshu
+  instagram: instagram
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
@@ -340,7 +341,7 @@ wechatpay: /images/weixin.jpg
 alipay: /images/zhifubao.jpg
 
 # 多说热评文章 true 或者 false
-duoshuo_hotartical: true
+#duoshuo_hotartical: true
 
 #本地搜索
 search:
