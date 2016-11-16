@@ -339,6 +339,8 @@ reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作�
 wechatpay: /images/weixin.jpg
 alipay: /images/zhifubao.jpg
 
+# 多说热评文章 true 或者 false
+duoshuo_hotartical: true
   
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
