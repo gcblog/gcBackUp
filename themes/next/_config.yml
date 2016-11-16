@@ -341,6 +341,13 @@ alipay: /images/zhifubao.jpg
 
 # 多说热评文章 true 或者 false
 duoshuo_hotartical: true
+
+#本地搜索
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
   
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
