@@ -70,5 +70,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/tcblog/tcblog.github.io.git
+  repo: https://github.com/gcblog/gcblog.github.io.git
   branch: master
