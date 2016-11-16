@@ -130,9 +130,9 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  GitHub: "https://github.com/suifengqjn/"
+  # Twitter: twitter
+  Weibo: "http://weibo.com/dearqjn?source=blog&is_all=1"
 
 
 # Sidebar Avatar
